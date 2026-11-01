@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# 📌 Project Disclaimer
 
-This project was bootstrapped with [Create React App].
+This repository is a personal learning project focused on Docker and application containerization. I am not the developer of the application itself.
+
+My goal with this project is to practice Docker fundamentals, learn how to containerize an existing application, and improve my understanding of container-based deployment.
+
+Focus areas: Docker, Dockerfiles, containerization, and Docker Compose (where applicable).
 
 # Informations about the project
 
